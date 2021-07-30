@@ -4,5 +4,5 @@ This Is A Simple Source For These Functions :
 # Deleting Camera Fade (Black Screen)
 # Selecting Player For Camera Target
 
-Go To mtaserver.conf And Add <resource src="players" startup="1" />
+Go To mtaserver.conf And Add "players" to resources
 And You're Ready To Go
