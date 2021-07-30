@@ -1,8 +1,8 @@
 addEventHandler('onPlayerJoin', root, function()
-    -- Spawn The Player
+    -- Spawn The Player (Middle Of Map)
     spawnPlayer(source, 0,0,5)
 
-    -- Fading The Black Cam
+    -- Fade Camera (Black Screen)
     fadeCamera(source, true)
 
     -- Set Camera Target On Player
